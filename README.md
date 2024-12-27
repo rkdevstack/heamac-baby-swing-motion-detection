@@ -3,7 +3,8 @@
 Here’s a step-by-step guide to create a complete project for your motion detection system on a Raspberry Pi. The project will include organized folders, Python scripts, and configurations for deployment. Follow these steps to set it up and execute:
 
 ---
-
+### Components
+All components [Listed Here](./components.md)
 ### **Step 1: Setup Project Folder Structure**
 
 Create a folder structure on your Raspberry Pi to organize your project files:
